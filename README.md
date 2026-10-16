@@ -1,5 +1,7 @@
 # WorkFit
 
+[Open WorkFit](https://workfit.jp2019213506.workers.dev/)
+
 A personal weekly planner for balancing work opportunities with care, rest and other commitments.
 
 ## Run
